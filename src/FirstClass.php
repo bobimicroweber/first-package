@@ -10,4 +10,6 @@ final class FirstClass
 
     // vtori
     // treti red
+    // treti red222343
+    // treti red222343
 }
