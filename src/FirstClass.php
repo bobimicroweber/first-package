@@ -9,4 +9,5 @@ final class FirstClass
     // wow1!
 
     // vtori
+    // treti red
 }
